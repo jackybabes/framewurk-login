@@ -1,0 +1,20 @@
+{
+  "email": "invited",
+  "password": "foobar",
+  "phone": "1234",
+  "twostep": true,
+  "suspended": {
+      "value": false
+  },
+  "disabled": false,
+  "organizations": [{
+      "name": "Default",
+      "lastlogin": "Date",
+      "invitedby": "Jack"
+  }],
+  "invited": {
+      "value": true,
+      "name": "Organization X",
+      "invitedby": "Petr"
+  }
+}

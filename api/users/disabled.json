@@ -1,0 +1,18 @@
+{
+    "email": "disabled",
+    "password": "1234",
+    "phone": "1234",
+    "twostep": true,
+    "suspended": {
+        "value": false
+    },
+    "disabled": true,
+    "organizations": [{
+        "name": "Default",
+        "lastlogin": "Date",
+        "invitedby": "Jack"
+    }],
+    "invited": {
+        "value": false
+    }
+}
